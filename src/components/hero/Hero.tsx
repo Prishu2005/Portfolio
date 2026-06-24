@@ -117,7 +117,7 @@ export default function Hero() {
             >
               {[
                 { val: "3+", label: "Projects Shipped" },
-                { val: "83.6%", label: "Academic Score" },
+                { val: "8.47", label: "CGPA" },
                 { val: "AI/ML", label: "Primary Focus" },
               ].map((stat) => (
                 <div key={stat.label}>
